@@ -1,0 +1,28 @@
+donate.html
+2017-sponsors.html
+update For more info about MATE, please CLICK HERE on the page2.html
+
+
+pages missing images:
+index.html (pic of the team)
+about.html (all)
+products.html (pic of all the rovs)
+discontinued.html
+scout.html
+scout-year-1--2010-.html (all)
+scout-year-2--2011-.html
+scout-year-3--2012-.html
+scout-year-4--2013-.html
+navigator.html
+triggerfish-mark-i--2014-.html
+ranger.html
+the-bug-2.0--2015-.html
+the-bug-3.0--2015-.html
+bruce--2016-.html
+explorer.html
+brian--2017-.html
+team-members.html
+   all team member pages
+local-media.html
+social-media2.html (social media icons)
+REMOVE contact form
